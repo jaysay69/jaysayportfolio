@@ -48,3 +48,15 @@ Bachelor of Science in Information Technology
 
 - Assist the SEO Manager with given tasks
 - My main tasks were SEO Audits, Keyword Research, On-page, and Off-page SEO, Analytics, Indexing
+
+#### Virtual Assistant
+#### Goabroad Philippines | 2019-2020 
+- Work closely with clients needs.
+- Web Design, SEO, Lead Generation, Social Media Management, Video Editing,
+Data Entry, Scheduling and Graphic Design.
+
+#### Data Analyst
+#### Willis Towers Watson | 2018 - 2019
+
+- Analyze and importing sensitive data.
+- Make sure data is secure and properly cleansed before we import it to the database
