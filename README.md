@@ -5,7 +5,7 @@ Driven SEO specialist with a passion for maximizing online visibility and drivin
 Eastern Visayas State University
 Bachelor of Science in Information Technology
 
-### Work Experience
+# Work Experience
 
 #### SEO Coordinator
 #### Studco Building Systems | 2024 - Present
