@@ -1,5 +1,5 @@
 # SEO Specialist
-
+Driven SEO specialist with a passion for maximizing online visibility and driving organic traffic growth. Dedicated to implementing innovative strategies and leveraging data-driven insights to enhance website rankings, improve user experience, and exceed business objectives. Seeking opportunities to utilize my expertise in SEO techniques, content optimization, and digital marketing to contribute to the success of a dynamic organization.
 # Education
 Eastern Visayas State University
 Bachelor of Science in Information Technology
@@ -18,3 +18,11 @@ My Cloud Crew | 2022-2023
  - Doing Competitive Analysis by High Performing Websites
  - Provide SEO Training to new employees 
  - Make sure that 90 Day plan is met
+SEO Specialist
+Emergency Trade Services | 2020 -2021
+- Work closely with client needs.
+- Maintain clients website
+- Provide high-quality Analytics and Reports
+- Provide traffic and revenue by optimizing SEO with current standards.
+- Optimize the website's Off-page and On-page SEO. Provide efficient SEO audits, Keyword Research, link building, Google my Business, Google Search Console, Indexing, Crawling
+
