@@ -1,8 +1,10 @@
 # SEO Specialist
 Driven SEO specialist with a passion for maximizing online visibility and driving organic traffic growth. Dedicated to implementing innovative strategies and leveraging data-driven insights to enhance website rankings, improve user experience, and exceed business objectives. Seeking opportunities to utilize my expertise in SEO techniques, content optimization, and digital marketing to contribute to the success of a dynamic organization.
+
 # Education
 Eastern Visayas State University
 Bachelor of Science in Information Technology
+
 ### Work Experience
 
 #### SEO Coordinator
