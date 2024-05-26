@@ -19,7 +19,10 @@ Bachelor of Science in Information Technology
 
 #### Technical SEO Specialist / Role Coach
 #### My Cloud Crew | 2022-2023
-<img src="MC.png" width="200" height="400" />
+<p align="left">
+ <img src="MC.png" width="450" height="300" />
+</p>
+
 
  - Provide Quality Website Audits
  - Do competitive Keyword Research
@@ -30,7 +33,7 @@ Bachelor of Science in Information Technology
 
 #### SEO Specialist
 #### Emergency Trade Services | 2020 -2021
-![512x512bb](https://github.com/jaysay69/jaysayportfolio/assets/21257104/8447174c-17de-42b9-a366-24e08fff3417)
+<img src="ets.jpg" width="450" height="400" />
 
 - Work closely with client needs.
 - Maintain the client's website
