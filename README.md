@@ -20,7 +20,7 @@ Bachelor of Science in Information Technology
 #### Technical SEO Specialist / Role Coach
 #### My Cloud Crew | 2022-2023
 <p align="left">
- <img src="MC.png" width="450" height="300" />
+ <img src="mcc.png" width="250" height="150" />
 </p>
 
 
@@ -33,7 +33,7 @@ Bachelor of Science in Information Technology
 
 #### SEO Specialist
 #### Emergency Trade Services | 2020 -2021
-<img src="ets.jpg" width="450" height="400" />
+<img src="ets.jpg" width="250" height="250" />
 
 - Work closely with client needs.
 - Maintain the client's website
