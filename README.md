@@ -33,7 +33,7 @@ Bachelor of Science in Information Technology
 
 #### SEO Specialist
 #### Emergency Trade Services | 2020 -2021
-<img src="ets.jpg" width="250" height="250" />
+<img src="ets.jpg" width="200" height="180" />
 
 - Work closely with client needs.
 - Maintain the client's website
@@ -43,7 +43,7 @@ Bachelor of Science in Information Technology
   
 #### Offer Researcher
 #### JoinPiggy LLC | 2020 -2021
-![piggy_owler_20191121_013831_original](https://github.com/jaysay69/jaysayportfolio/assets/21257104/2da11887-7f32-4095-a677-7abe8cea5500)
+<img src="piggy.jpg" width="480" height="150" />
 
 - Monitor top Partner store pages daily
 - Conduct online research to identify new offers to be added to our partner page 
@@ -67,7 +67,7 @@ Data Entry, Scheduling, and Graphic Design.
 
 #### Data Analyst
 #### Willis Towers Watson | 2018 - 2019
-![willis-towers-watson](https://github.com/jaysay69/jaysayportfolio/assets/21257104/46491cfd-6514-4d6d-91ea-c510c9605c7b)
+<img src="wtw.jpg" width="250" height="250" />
 
 - Analyze and importing sensitive data.
 - Make sure data is secure and properly cleansed before we import it to database
