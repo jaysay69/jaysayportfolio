@@ -9,6 +9,7 @@ Bachelor of Science in Information Technology
 
 #### SEO Coordinator
 #### Studco Building Systems | 2024 - Present
+![images](https://github.com/jaysay69/jaysayportfolio/assets/21257104/11177bac-a469-4b95-b4b5-4454eeaf1b7e)
 
 - Managing 7 Websites
 - Google Ads Management
