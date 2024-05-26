@@ -19,7 +19,7 @@ Bachelor of Science in Information Technology
 
 #### Technical SEO Specialist / Role Coach
 #### My Cloud Crew | 2022-2023
-![MCC-logo_dark-vertical](https://github.com/jaysay69/jaysayportfolio/assets/21257104/46f72de8-64e4-41a3-8d99-f8126c32778b)
+<img src="MC.png" width="200" height="400" />
 
  - Provide Quality Website Audits
  - Do competitive Keyword Research
