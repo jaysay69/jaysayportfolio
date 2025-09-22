@@ -13,7 +13,7 @@ Bachelor of Science in Information Technology
 
 - Managing 7 Websites
 - Google Ads Management
-- Monthly Audits, Fixing site's issues
+- Monthly Audits, Fixing the site's issues
 - Creating Monthly reports using Looker Studio
 - Keyword Research, On-Page SEO, Technical SEO
 
@@ -27,15 +27,15 @@ Bachelor of Science in Information Technology
  - Provide Quality Website Audits
  - Do competitive Keyword Research
  - Provide an effective campaign strategy for the Marketing Team
- - Doing Competitive Analysis by High Performing Websites
+ - Doing Competitive Analysis by High-Performing Websites
  - Provide SEO Training to new employees 
- - Make sure that 90 Day plan is met
+ - Make sure that the 90 Day plan is met
 
 #### SEO Specialist
 #### Emergency Trade Services | 2020 -2021
 <img src="ets.jpg" width="200" height="180" />
 
-- Work closely with client needs.
+- Work closely with the client's needs.
 - Maintain the client's website
 - Provide high-quality Analytics and Reports
 - Provide traffic and revenue by optimizing SEO with current standards.
@@ -47,15 +47,15 @@ Bachelor of Science in Information Technology
 
 - Monitor top Partner store pages daily
 - Conduct online research to identify new offers to be added to our partner page 
-- Create High quality. accurate description to the new offers database
-- Ensure all uploading offers are categorized and inputted  according to company standards
+- Create a High-quality, accurate description of the new offers database
+- Ensure all uploaded offers are categorized and inputted according to company standards
 
 #### SEO Assistant 
 #### Intechsive | 2020
 ![images (1)](https://github.com/jaysay69/jaysayportfolio/assets/21257104/8882fbdc-f177-49f2-925f-bbb95954b627)
 
 - Assist the SEO Manager with given tasks
-- My main tasks were SEO Audits, Keyword Research, On-page, and Off-page SEO, Analytics, Indexing
+- My main tasks were SEO Audits, Keyword Research, On-page and Off-page SEO, Analytics, and Indexing
 
 #### Virtual Assistant
 #### Goabroad Philippines | 2019-2020 
@@ -69,5 +69,5 @@ Data Entry, Scheduling, and Graphic Design.
 #### Willis Towers Watson | 2018 - 2019
 <img src="wtw.jpg" width="250" height="250" />
 
-- Analyze and importing sensitive data.
-- Make sure data is secure and properly cleansed before we import it to database
+- Analyze and import sensitive data.
+- Make sure data is secure and properly cleansed before we import it to the database
